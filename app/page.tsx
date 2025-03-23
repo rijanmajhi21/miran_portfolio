@@ -4,7 +4,7 @@ import Head from "next/head";
 export const metadata = {
   title: "Miran | Photography",
   description:
-    "Explore the world through the lens of Miran. A collection of stunning portraits, landscapes, and creative photography capturing moments, emotions, and stories.",
+    "Discover the art of photography through Miran's lens. A curated collection of captivating portraits, breathtaking landscapes, and emotive photography that tells stories and captures timeless moments.",
   icons: {
     icon: "/favicon.png",
   },
